@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- Replace this URL with your GitHub-hosted profile picture -->
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQGfHnR-yIOTRA/profile-displayphoto-crop_800_800/B4DZgw01Q9HYAM-/0/1753165815398?e=1765411200&v=beta&t=cVhrEMMbjwZ_Cf82X-HeQTG7uF5ww8DlF2-0PcJO3GE" alt="Profile Photo" width="180" style="border-radius:50%;" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQGfHnR-yIOTRA/profile-displayphoto-crop_800_800/B4DZgw01Q9HYAM-/0/1753165815398?e=1765411200&v=beta&t=cVhrEMMbjwZ_Cf82X-HeQTG7uF5ww8DlF2-0PcJO3GE" alt="Profile Photo" width="180" style="border-radius:500%;" />
 </p>
 
 ---
