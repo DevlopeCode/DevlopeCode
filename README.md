@@ -83,7 +83,14 @@ Skilled in **JavaScript, TypeScript, Redux, Firebase**, with strong project mana
 ## 🚀 **Projects**
 
 ### **ADCB Corporate Banking Application**
-A secure & scalable corporate banking application.  
+A secure & scalable corporate banking application. 
+Android / iOS links:  
+- https://play.google.com/store/apps/details?id=com.adcb.nexgen&hl=en  
+- https://apps.apple.com/ae/app/adcb/id547172388  
+
+---
+
+
 **Tech Stack:** React Native, React.js, Tamagui UI, XState, Webpack  
 - Integrated **Ping Identity** authentication.  
 - Implemented unified cross-platform UI.  
